@@ -1,6 +1,3 @@
-## Danny Mares
-### Advisor Small & Corporate Services at VodafoneZiggo
-
 Experienced Technical Support Representative with a demonstrated history of working in the outsourcing/offshoring industry. Skilled in Technical Support, Customer Satisfaction, Contact Centers, Customer Service, and Telecommunication Services. 
 
 ```markdown
