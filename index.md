@@ -1,13 +1,7 @@
-# Danny Mares
-## Advisor Small & Corporate Services at VodafoneZiggo
+## Danny Mares
+### Advisor Small & Corporate Services at VodafoneZiggo
 
-You can use the [editor on GitHub](https://github.com/djamares/djamares.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Experienced Technical Support Representative with a demonstrated history of working in the outsourcing/offshoring industry. Skilled in Technical Support, Customer Satisfaction, Contact Centers, Customer Service, and Telecommunication Services. 
 
 ```markdown
 Syntax highlighted code block
